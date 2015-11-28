@@ -18,7 +18,11 @@ Getting Started
 
 Screenshots
 -----------
-![screenshot](screenshot.png)
+![screenshot](https://github.com/DeLaSalleUniversity-Manila/bitmap-plasma-ErvinLu/blob/master/device-2015-11-28-170454.png)
+
+Video Capture
+-----------
+(https://youtu.be/yEvYAtRyKv0)
 
 Support
 -------
